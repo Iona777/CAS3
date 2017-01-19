@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using TechTalk.SpecFlow;
-using Capita.PruApp.BusinessTests.Phase2.Utilities;
-using Capita.PruApp.BusinessTests.Phase2.Constants;
-using Capita.PruApp.BusinessTests.Phase2.Pages;
+using BusinessTests.Phase2.Utilities;
+using BusinessTests.Phase2.Constants;
+using BusinessTests.Phase2.Pages;
 using Capita.PruApp.BusinessTests.Phase2.Pages.D2C_Pages;
-using Capita.ApplicationManager.ServiceMessages.v2.Models;
+using ApplicationManager.ServiceMessages.v2.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 

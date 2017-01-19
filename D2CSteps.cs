@@ -7,12 +7,12 @@ using TechTalk.SpecFlow;
 using BusinessTests.Phase2.Utilities;
 using BusinessTests.Phase2.Constants;
 using BusinessTests.Phase2.Pages;
-using Capita.PruApp.BusinessTests.Phase2.Pages.D2C_Pages;
+using BusinessTests.Phase2.Pages.D2C_Pages;
 using ApplicationManager.ServiceMessages.v2.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 
-namespace Capita.PruApp.BusinessTests.Phase2.Tests.Step_Definitions
+namespace BusinessTests.Phase2.Tests.Step_Definitions
 {
     [Binding]
     public sealed class D2CSteps

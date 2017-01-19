@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading;
 using OpenQA.Selenium;
 using TechTalk.SpecFlow;
-using Capita.PruApp.BusinessTests.Phase2.Utilities;
-using Capita.PruApp.BusinessTests.Phase2.Constants;
-using Capita.PruApp.BusinessTests.Phase2.Pages;
+using BusinessTests.Phase2.Utilities;
+using BusinessTests.Phase2.Constants;
+using BusinessTests.Phase2.Pages;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 
-namespace Capita.PruApp.BusinessTests.Phase2.Tests.Step_Definitions
+namespace BusinessTests.Phase2.Tests.Step_Definitions
 {
     [Binding]
     public sealed class LogInTest1

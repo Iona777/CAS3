@@ -10,12 +10,12 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 using Newtonsoft.Json;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Capita.PruApp.BusinessTests.Phase2.Utilities;
-using Capita.PruApp.BusinessTests.Phase2.Pages;
-using Capita.PruApp.BusinessTests.Phase2.Constants;
-using Capita.PruApp.BusinessTests.Phase2.Models;
+using BusinessTests.Phase2.Utilities;
+using BusinessTests.Phase2.Pages;
+using BusinessTests.Phase2.Constants;
+using BusinessTests.Phase2.Models;
 
-namespace Capita.PruApp.BusinessTests.Phase2.Tests.Step_Definitions
+namespace BusinessTests.Phase2.Tests.Step_Definitions
 {
 
     [Binding]

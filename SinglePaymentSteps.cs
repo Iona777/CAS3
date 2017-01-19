@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using TechTalk.SpecFlow;
-using PruApp.BusinessTests.Phase2.Pages;
-using PruApp.BusinessTests.Phase2.Models;
-using PruApp.BusinessTests.Phase2.Utilities;
-using PruApp.BusinessTests.Phase2.Constants;
+using BusinessTests.Phase2.Pages;
+using BusinessTests.Phase2.Models;
+using BusinessTests.Phase2.Utilities;
+using BusinessTests.Phase2.Constants;
 using Newtonsoft.Json;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

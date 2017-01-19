@@ -45,8 +45,6 @@ namespace BusinessTests.Phase2.Tests.Step_Definitions
 
 
 
-
-
         [When(@"They enter valid login credentials and click on the Login button")] //Equivalent to [TestMethod]
         public void LoginTest()
         {

@@ -5,14 +5,14 @@ using System.Text;
 using System.IO;
 using TechTalk.SpecFlow;
 using System.Diagnostics;
-using Capita.PruApp.BusinessTests.Phase2.Pages;
-using Capita.PruApp.BusinessTests.Phase2.Models;
-using Capita.PruApp.BusinessTests.Phase2.Utilities;
-using Capita.PruApp.BusinessTests.Phase2.Constants;
+using BusinessTests.Phase2.Pages;
+using BusinessTests.Phase2.Models;
+using BusinessTests.Phase2.Utilities;
+using BusinessTests.Phase2.Constants;
 using Newtonsoft.Json;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Capita.PruApp.BusinessTests.Phase2.Tests.Step_Definitions
+namespace BusinessTests.Phase2.Tests.Step_Definitions
 {
     [Binding]
     public sealed class CommonSteps
